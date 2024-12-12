@@ -3,13 +3,13 @@ School Type
 
 Instructions
 
-# Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
+Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
 Hint: Check out the sample solution called PyCitySchools_starter.ipynb located in the .zip file to review the desired format for this assignment.
 
 District Summary
 
-# Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
+Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 Include the following:
 
    * Total number of unique schools
@@ -30,7 +30,7 @@ Include the following:
 
 School Summary
 
-# Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
+Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 Include the following:
 
    * School name
